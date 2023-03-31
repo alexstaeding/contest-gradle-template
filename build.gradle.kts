@@ -17,6 +17,9 @@ repositories {
 }
 
 dependencies {
+    testImplementation(libs.junit)
+    testImplementation(libs.kotest.core)
+    testImplementation(libs.kotest.property)
 }
 
 kotlin {
