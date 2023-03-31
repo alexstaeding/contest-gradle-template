@@ -12,10 +12,6 @@ application {
     mainClass.set("contest.JavaMain")
 }
 
-repositories {
-    mavenCentral()
-}
-
 dependencies {
     testImplementation(libs.junit)
     testImplementation(libs.kotest.core)
