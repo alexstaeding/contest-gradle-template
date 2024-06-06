@@ -1,5 +1,5 @@
 [versions]
-kotest = "5.8.1"
+kotest = "5.9.1"
 
 [plugins]
 kotlin-jvm = "org.jetbrains.kotlin.jvm:1.9.23"
