@@ -2,7 +2,7 @@
 kotest = "5.9.1"
 
 [plugins]
-kotlin-jvm = "org.jetbrains.kotlin.jvm:2.0.21"
+kotlin-jvm = "org.jetbrains.kotlin.jvm:2.2.21"
 
 [libraries]
 # TDD is the way
